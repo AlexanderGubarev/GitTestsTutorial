@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{DC834224-80EF-4710-8075-D3FB37271DD5}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{5B065688-A7F9-41DE-BA45-BF23B8116C41}">
+				<Data Comment="11" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{22258FEB-19A9-421B-98A1-FAB5A367B4AD}" />
+	<Parameters Key="{ABA3FB98-712A-48EB-BCB1-8C80DD31CC27}" />
+</Root>
